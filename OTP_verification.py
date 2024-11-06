@@ -4,8 +4,8 @@ import tkinter as tk
 from tkinter import messagebox
 
 # Email and password for sending OTP
-EMAIL_ADDRESS = " "
-PASSWORD = " "
+EMAIL_ADDRESS = "harvesthub99@gmail.com"
+PASSWORD = "wexg hawf pidd fify"
 
 # Function to send email with OTP
 def send_email(receiver_email, otp):
